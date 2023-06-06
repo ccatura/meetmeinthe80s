@@ -8,5 +8,8 @@ body {
 
 .image {
     border: 1px solid black;
-    height: 400px;
+    /* height: 400px; */
+    max-width: 100%;
 }
+
+
