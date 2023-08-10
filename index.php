@@ -8,7 +8,8 @@
     <title>MeetMeInTh80s.com</title>
 </head>
 <body>
-    <h1>I don't know what to do here, so I decided to plop images here on what AI thinks the 80s were all about.</h1>
+    <h1>Go vote for the best of the best of the 70s, 80s, and 90s at<br><a href='./apps/whats-the-best/'>What's the Best?</a></h1>
+    <h3>I don't know what else to do here, so I decided to plop images here on what AI thinks the 80s were all about.</h3>
 
 
 
