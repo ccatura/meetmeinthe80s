@@ -8,6 +8,25 @@
     <title>MeetMeInTh80s.com</title>
 </head>
 <body>
+
+
+    <a href="https://www.spreadshirt.com/shop/user/grimsical/"><h1>Visit the Grimsical Store Here!</h1></a>
+
+    <a href="https://www.spreadshirt.com/shop/design/sos+your+face+mens+premium+t-shirt-D66f5b8306852e61ff93bf6f5?sellable=VMvJwaz4dLtBvjgN451q-812-7&appearance=804">
+        <h2>Get the "So's Your Face!" shirt.</h2>
+        <div><img src="./images/product_images/sos-your-face-shirt.jpg"></div>
+    </a>
+
+    <a href="https://www.spreadshirt.com/shop/design/sos+your+face+sticker-D66f5b8306852e61ff93bf6f5?sellable=VMvJwaz4dLtBvjgN451q-1459-215">
+        <h2>Or sticker</h2>
+        <div><img src="./images/product_images/sos-your-face-sticker.jpg"></div>
+    </a>
+
+
+
+
+
+
     <h1>Go vote for the best of the best of the 70s, 80s, and 90s at<br><a href='./apps/whats-the-best/'>What's the Best?</a></h1>
     <h3>I don't know what else to do here, so I decided to plop images here on what AI thinks the 80s were all about.</h3>
 
